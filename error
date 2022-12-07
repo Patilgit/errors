@@ -1,7 +1,1 @@
-+ kubectl apply -f deployment_demo.yml
-Error from server (Forbidden): <html><head><meta http-equiv='refresh' content='1;url=/login?from=%2Fswagger-2.0.0.pb-v1%3Ftimeout%3D32s'/><script>window.location.replace('/login?from=%2Fswagger-2.0.0.pb-v1%3Ftimeout%3D32s');</script></head><body style='background-color:white; color:white;'>
-
-
-Authentication required
-<!--
--->
+http://abf2b4a8aee99430eb3c48e1e25de961-68684877.ap-south-1.elb.amazonaws.com:8086/
